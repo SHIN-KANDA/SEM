@@ -24,7 +24,7 @@ The purpose of this study is to identify strategies for long-term customer reten
 　　顧客ロイヤルティの高低に影響する要因の分析  
   
 ### Ⅲ Others/その他
-Requirement:R 4.0.0
+Requirement:R 4.0.0  
 Author:KANDA Shinsuke
 
 
